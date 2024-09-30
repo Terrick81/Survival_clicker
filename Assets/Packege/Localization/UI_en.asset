@@ -1,0 +1,396 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: de0c582838b531e4193ebe5fc168c96c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5756955589723553794
+  m_TableData:
+  - m_Id: 19788427264
+    m_Localized: cost of improvement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982857861623808
+    m_Localized: empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982956805255168
+    m_Localized: digging stick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982988006682624
+    m_Localized: snowshoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2057845545332736
+    m_Localized: cost of creation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061361944948736
+    m_Localized: create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061698613342208
+    m_Localized: improve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062842710421504
+    m_Localized: increase in production per second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062876478763008
+    m_Localized: increase in production per click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2108795924475904
+    m_Localized: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392197273710592
+    m_Localized: stone pickaxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392238453387264
+    m_Localized: stone axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392918001938432
+    m_Localized: log
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414947447042048
+    m_Localized: 'you are wearing a fur coat with a hat.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414937066139648
+    m_Localized: "dog sledding\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414926341304320
+    m_Localized: 'bow and arrow
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414915578720256
+    m_Localized: pet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414904421871616
+    m_Localized: 'bowler hat
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414893814476800
+    m_Localized: 'knife
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414882577936384
+    m_Localized: 'tent
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414871219761152
+    m_Localized: 'bonfire
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414858926256128
+    m_Localized: 'iron fishing rod
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414846058131456
+    m_Localized: 'chair
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414833299058688
+    m_Localized: 'chainsaw
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414822041546752
+    m_Localized: 'jackhammer
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414807961268224
+    m_Localized: 'sledge
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414796477263872
+    m_Localized: 'canning bank
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414785123282944
+    m_Localized: 'snow shelter
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414770053148672
+    m_Localized: 'fire
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414324567732224
+    m_Localized: 'iron axe
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414303801733120
+    m_Localized: 'iron pickaxe
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414289314607104
+    m_Localized: 'extinguished campfire
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414231433211904
+    m_Localized: wooden fishing rod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414957924413440
+    m_Localized: location progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2551340504674304
+    m_Localized: move to a new location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801244472832000
+    m_Localized: moving to a new location...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815724514668544
+    m_Localized: campfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7579777460039680
+    m_Localized: ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8185728063991808
+    m_Localized: The advertisement will start in {0} sec.
+    m_Metadata:
+      m_Items:
+      - rid: 5756955589723553794
+  - m_Id: 8205735485468672
+    m_Localized: the fighting spirit of the wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328625155829760
+    m_Localized: Yes, I think so
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328743963684864
+    m_Localized: No. I can handle it on my own.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329118263373824
+    m_Localized: "\rI am lost and need help getting to civilization. Can you please
+      assist me?\n\nGet trained?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329287327379456
+    m_Localized: "\rOh no! The wolves are getting very close. Please find and chase
+      them away."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329832234577920
+    m_Localized: Let's try creating something.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12332225407971328
+    m_Localized: 'You are missing a tree. Let''s get the necessary resource. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12333007570169856
+    m_Localized: To progress further in the game, you will need to upgrade each piece
+      of equipment at least to level 5.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12345859588714496
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12347865053229056
+    m_Localized: Some items help scare off evil wolves and attract good ones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12351552442036224
+    m_Localized: "Congratulations!! \nYou have passed the game. This is my team's
+      first project. I put my strength and soul into this game. Each stage has been
+      honed to perfection. It was important to me that you get positive emotions
+      and have a good time. After all, for me: the quality of the game is very important.\n\nThanks
+      again! Wait for the next projects. Sincerely, the T&A team"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12463985017974784
+    m_Localized: '+ increases the power of scaring
+
+      + increases the chance
+      of a good wolf by 2%
+
+      + increases the safe time'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465882026176512
+    m_Localized: additional effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481174462754816
+    m_Localized: you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481946776727552
+    m_Localized: equipment level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136836887146496
+    m_Localized: location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16484840773480448
+    m_Localized: the improvement is available in subsequent stages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136958618431488
+    m_Localized: quiet bushes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137310843498496
+    m_Localized: lake "Asphodel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137439776403456
+    m_Localized: mountain stream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137739505561600
+    m_Localized: snowstorm mountains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17138356424765440
+    m_Localized: coal cave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17554862245638144
+    m_Localized: the maximum level has been obtained
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17724223170244608
+    m_Localized: bathhouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17725923469783040
+    m_Localized: doghouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726314219532288
+    m_Localized: rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726415943987200
+    m_Localized: snowmobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726474550996992
+    m_Localized: you're wearing shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726595665719296
+    m_Localized: mittens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726655879147520
+    m_Localized: toolbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24511813227606016
+    m_Localized: 'tip:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24852043860242432
+    m_Localized: select a language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25177833072193536
+    m_Localized: "\rTry to scare off the wolf before it attacks you as quickly as
+      possible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24513794470014976
+    m_Localized: 'Not all wolves are dangerous. Some of them may help you. The main
+      thing is not to scare them off!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24514382721150976
+    m_Localized: The panel below shows your current progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25192306126319616
+    m_Localized: You've come so far! Thank you so much for checking out the game.
+      This is the first project of our company)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35506731320307712
+    m_Localized: Start from the beginning?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35508423013134336
+    m_Localized: 'You passed the game for:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36007509873094656
+    m_Localized: saving...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38676722500726784
+    m_Localized: space bar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5756955589723553794
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00707b55e0141d00

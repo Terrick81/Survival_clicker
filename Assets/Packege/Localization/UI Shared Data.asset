@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: de0c582838b531e4193ebe5fc168c96c
+  m_Entries:
+  - m_Id: 19788427264
+    m_Key: lvl_up_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982857861623808
+    m_Key: empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982956805255168
+    m_Key: digging_stick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982988006682624
+    m_Key: snowshoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2057845545332736
+    m_Key: create_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061361944948736
+    m_Key: create_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061698613342208
+    m_Key: lvl_up_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062842710421504
+    m_Key: passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062876478763008
+    m_Key: active
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2108795924475904
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392197273710592
+    m_Key: stone_pickaxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392238453387264
+    m_Key: stone_axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392918001938432
+    m_Key: log
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414231433211904
+    m_Key: wooden_fishing_rod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414289314607104
+    m_Key: extinguished_campfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414303801733120
+    m_Key: iron_pickaxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414324567732224
+    m_Key: iron_axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414770053148672
+    m_Key: fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414785123282944
+    m_Key: snow_shelter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414796477263872
+    m_Key: canning_bank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414807961268224
+    m_Key: sledge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414822041546752
+    m_Key: jackhammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414833299058688
+    m_Key: chainsaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414846058131456
+    m_Key: chair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414858926256128
+    m_Key: iron_fishing_rod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414871219761152
+    m_Key: bonfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414882577936384
+    m_Key: tent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414893814476800
+    m_Key: knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414904421871616
+    m_Key: bowler_hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414915578720256
+    m_Key: pet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414926341304320
+    m_Key: bow_and_arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414937066139648
+    m_Key: dog_sledding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414947447042048
+    m_Key: fur_coat_and_hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414957924413440
+    m_Key: progress_bar_location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2551340504674304
+    m_Key: location_lvl_up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801244472832000
+    m_Key: walk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815724514668544
+    m_Key: campfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7579777460039680
+    m_Key: ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8185728063991808
+    m_Key: ad_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8205735485468672
+    m_Key: wolf_health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328625155829760
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328743963684864
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329118263373824
+    m_Key: Message_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329287327379456
+    m_Key: Message_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329832234577920
+    m_Key: Message_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12332225407971328
+    m_Key: Message_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12333007570169856
+    m_Key: Tip_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12345859588714496
+    m_Key: ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12347865053229056
+    m_Key: Tip_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12351552442036224
+    m_Key: Congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12463985017974784
+    m_Key: wolf_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465882026176512
+    m_Key: additional_effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481174462754816
+    m_Key: man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481946776727552
+    m_Key: Lvl_item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16484840773480448
+    m_Key: current_max_LVL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136836887146496
+    m_Key: mini_label_location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136958618431488
+    m_Key: label_location_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137310843498496
+    m_Key: label_location_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137439776403456
+    m_Key: label_location_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137739505561600
+    m_Key: label_location_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17138356424765440
+    m_Key: label_location_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17554862245638144
+    m_Key: max_LVL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17724223170244608
+    m_Key: house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17725923469783040
+    m_Key: mini_house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726314219532288
+    m_Key: rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726415943987200
+    m_Key: snowmobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726474550996992
+    m_Key: boots_and_trousers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726595665719296
+    m_Key: mittens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726655879147520
+    m_Key: toolbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24511813227606016
+    m_Key: Tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24513794470014976
+    m_Key: Tip_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24514382721150976
+    m_Key: Tip_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24852043860242432
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25177833072193536
+    m_Key: Message_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25192306126319616
+    m_Key: Tip_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35506731320307712
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35508423013134336
+    m_Key: results
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36007509873094656
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38676722500726784
+    m_Key: space
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5756955080622604312
+  references:
+    version: 2
+    RefIds:
+    - rid: 5756955080622604312
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1707264180375

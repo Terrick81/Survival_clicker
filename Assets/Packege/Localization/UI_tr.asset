@@ -1,0 +1,358 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: de0c582838b531e4193ebe5fc168c96c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5756955589723553795
+  m_TableData:
+  - m_Id: 19788427264
+    m_Localized: iyilestirme maliyeti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982857861623808
+    m_Localized: bos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982956805255168
+    m_Localized: kazma aleti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982988006682624
+    m_Localized: "kar ayakkab\u0131s\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2057845545332736
+    m_Localized: "yarat\u0131l\u0131s maliyeti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061698613342208
+    m_Localized: gelistirmek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2061361944948736
+    m_Localized: yaratmak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062842710421504
+    m_Localized: "saniyede \xFCretim art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2062876478763008
+    m_Localized: "t\u0131klama ba\u015F\u0131na \xFCretimi art\u0131r\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2108795924475904
+    m_Localized: kapat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392238453387264
+    m_Localized: "ta\u015F aks"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392197273710592
+    m_Localized: "ta\u015F pickaxe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392918001938432
+    m_Localized: "k\xFCt\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414231433211904
+    m_Localized: "ah\u015Fap olta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414289314607104
+    m_Localized: "s\xF6nm\xFC\u015F kamp ate\u015Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414303801733120
+    m_Localized: demir kazma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414324567732224
+    m_Localized: demir balta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414770053148672
+    m_Localized: "ate\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414785123282944
+    m_Localized: "kar bar\u0131na\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414796477263872
+    m_Localized: "konserve bankas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414807961268224
+    m_Localized: "k\u0131zak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414822041546752
+    m_Localized: "\xE7eki\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414833299058688
+    m_Localized: motorlu testere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414846058131456
+    m_Localized: sandalye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414957924413440
+    m_Localized: konum ilerlemesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2551340504674304
+    m_Localized: "yeni bir yere ta\u015F\u0131nmak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801244472832000
+    m_Localized: yeni bir yere gidiyoruz...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7579777460039680
+    m_Localized: reklam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8185728063991808
+    m_Localized: "Reklam {0} saniye i\xE7inde ba\u015Flayacak"
+    m_Metadata:
+      m_Items:
+      - rid: 5756955589723553795
+  - m_Id: 8205735485468672
+    m_Localized: "kurt d\xF6v\xFC\u015F ruhu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328625155829760
+    m_Localized: "Evet, san\u0131r\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328743963684864
+    m_Localized: "Hay\u0131r. Kendi ba\u015F\u0131ma halledebilirim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329287327379456
+    m_Localized: "Oh hay\u0131r! Kurtlar \xE7ok yakla\u015Ft\u0131. Kurdu bulup kovalay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329118263373824
+    m_Localized: "Kayboldum ve bu ormanda mahsur kald\u0131m. Medeniyete ula\u015Fmama
+      yard\u0131m edin.\n\nE\u011Fitim almak m\u0131?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329832234577920
+    m_Localized: "Bir \u015Feyler yaratmaya \xE7al\u0131\u015Fal\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12332225407971328
+    m_Localized: "Sizin i\xE7in yeterli odun yok. Gerekli kayna\u011F\u0131 elde
+      edelim. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12333007570169856
+    m_Localized: "Oyunda daha da ilerlemek i\xE7in her ekipman par\xE7as\u0131n\u0131
+      en az 5. seviyeye y\xFCkseltmeniz gerekecek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12345859588714496
+    m_Localized: Tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12347865053229056
+    m_Localized: "Baz\u0131 e\u015Fyalar k\xF6t\xFC kurtlar\u0131 korkutmaya ve iyileri
+      yakalamaya yard\u0131mc\u0131 olur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12351552442036224
+    m_Localized: "Tebrikler!!\nOyunu ge\xE7tiniz. Bu ekibimin ilk projesi. Bu oyuna
+      enerjimi ve ruhumu koydum. Her a\u015Fama ideal olana kadar cilaland\u0131.
+      Olumlu duygular edinmeniz ve iyi vakit ge\xE7irmeniz benim i\xE7in \xF6nemliydi.
+      Sonu\xE7ta benim i\xE7in: Oyunun kalitesi \xE7ok \xF6nemli.\n\nTekrar te\u015Fekk\xFCrler!
+      Sonraki projeleri bekleyin. Sayg\u0131lar\u0131mla, \"T&A\" ekibi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12463985017974784
+    m_Localized: "+ cayd\u0131r\u0131c\u0131l\u0131\u011F\u0131n g\xFCc\xFCn\xFC
+      art\u0131r\u0131r\n+ iyi bir kurdun ortaya \xE7\u0131kma \u015Fans\u0131n\u0131%
+      2 art\u0131r\u0131r%\n+ g\xFCvenli zaman\u0131 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465882026176512
+    m_Localized: ek etkiler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481174462754816
+    m_Localized: siz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12481946776727552
+    m_Localized: ekipman seviyesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16484840773480448
+    m_Localized: "iyile\u015Ftirme sonraki a\u015Famalarda mevcuttur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136836887146496
+    m_Localized: konum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136958618431488
+    m_Localized: "sessiz \xE7al\u0131lar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137310843498496
+    m_Localized: "Asfodel g\xF6l\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137439776403456
+    m_Localized: "da\u011F deresi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17137739505561600
+    m_Localized: "kar f\u0131rt\u0131nas\u0131 da\u011Flar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17138356424765440
+    m_Localized: "k\xF6m\xFCr ma\u011Faras\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17554862245638144
+    m_Localized: maksimum seviye elde edildi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17724223170244608
+    m_Localized: hamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17725923469783040
+    m_Localized: "k\xF6pek kul\xFCbesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726474550996992
+    m_Localized: "siz ayakkab\u0131lartas\u0131n\u0131z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726595665719296
+    m_Localized: demlemek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726655879147520
+    m_Localized: alet kutusu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726415943987200
+    m_Localized: "kar Arabas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17726314219532288
+    m_Localized: "t\xFCfek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414947447042048
+    m_Localized: "\u015Fapkal\u0131 bir k\xFCrk manto i\xE7indesiniz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414858926256128
+    m_Localized: demir olta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414871219761152
+    m_Localized: "\u015Fenlik ate\u015Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414882577936384
+    m_Localized: "\xE7ad\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414893814476800
+    m_Localized: "b\u0131\xE7ak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414904421871616
+    m_Localized: "melon \u015Fapka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414915578720256
+    m_Localized: evcil hayvan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414926341304320
+    m_Localized: yay ve ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2414937066139648
+    m_Localized: "k\xF6pek k\u0131za\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815724514668544
+    m_Localized: "kamp ate\u015Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24511813227606016
+    m_Localized: "bah\u015Fi\u015F:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24852043860242432
+    m_Localized: "dilinizi se\xE7in"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25177833072193536
+    m_Localized: "Kurdu size sald\u0131rmadan \xF6nce m\xFCmk\xFCn olan en k\u0131sa
+      s\xFCrede korkutmaya \xE7al\u0131\u015F\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24513794470014976
+    m_Localized: "B\xFCt\xFCn kurtlar tehlikeli de\u011Fildir. Baz\u0131lar\u0131
+      size yard\u0131mc\u0131 olabilir. \xD6nemli olan onlar\u0131 korkutmak de\u011Fil!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24514382721150976
+    m_Localized: "Alttaki panel mevcut ilerlemenizi g\xF6sterir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25192306126319616
+    m_Localized: "\u015Eimdiye kadar geldin! Oyunu takdir etti\u011Finiz i\xE7in
+      \xE7ok te\u015Fekk\xFCr ederim. Bu \u015Firketimizin ilk projesidir)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35506731320307712
+    m_Localized: "Ba\u015Ftan ba\u015Flamak m\u0131?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35508423013134336
+    m_Localized: "\u0130\xE7in oyunu ge\xE7tiniz:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36007509873094656
+    m_Localized: oyunu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38676722500726784
+    m_Localized: "bo\u015Fluk \xE7ubu\u011Fu"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5756955589723553795
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00707b55e0141d00

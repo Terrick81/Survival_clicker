@@ -1,5 +1,5 @@
 # Игра в жанре выживание кликер: "Survival clicker"
-**URL^** [Survival clicker on Yandex Game](https://yandex.ru/games/app/292993)
+**URL:** [Survival clicker on Yandex Game](https://yandex.ru/games/app/292993)
 
 **Цель:** реализация игры смежное между виживанием и кликером со сменой локаций, ресурсов, и вещами.
 
